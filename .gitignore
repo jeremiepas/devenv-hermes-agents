@@ -1,0 +1,8 @@
+# devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+# direnv
+.direnv
+# test scratch (hermes-agents-test)
+.hermes-test/
